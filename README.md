@@ -5,17 +5,17 @@
   </div>
   <div align="center" id="badges">
     <h3 align="center">Contact me</h3>
-    <a href="mailto:alek.sandr2020@mail.ru">
-      <img src="https://img.shields.io/badge/-alek.sandr2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <a href="mailto:nguyenducmanh2097@gmail.com">
+      <img src="https://img.shields.io/badge/-nguyenducmanh2097%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://t.me/AlekGurov">
-      <img src="https://img.shields.io/badge/-AlekGurov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <a href="https://t.me/Kay_Nguyenn">
+      <img src="https://img.shields.io/badge/-Kay_Nguyenn-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://kwork.ru/user/KayNguyen97">
-      <img src="https://img.shields.io/badge/-aleksandrgurov-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Badge"/>
+      <img src="https://img.shields.io/badge/-KayNguyen-yellow?style=for-the-badge&logo=kwork&logoColor=white" alt="Kwork Badge"/>
     </a>
      <a href="https://freelance.habr.com/freelancers/KayNguyen97">
-      <img src="https://img.shields.io/badge/-aleksandrgurov-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
+      <img src="https://img.shields.io/badge/-KayNguyen97-brightgreen?style=for-the-badge&logo=habr&logoColor=white" alt="Habar Badge"/>
     </a>
   </div>  
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=KayNguyen97&label=Profile%20Visits&style=for-the-badge" />
